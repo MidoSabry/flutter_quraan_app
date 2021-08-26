@@ -29,7 +29,7 @@ samples, guidance on mobile development, and a full API reference.
 
 
 
-<div>
+
 ![sala5](https://user-images.githubusercontent.com/48366462/131004553-dd3ee4c2-fc36-4ed6-a5b7-75cac527192e.JPG)
 ![sala4](https://user-images.githubusercontent.com/48366462/131004557-f26e0461-0a86-455c-9c22-aa1b302e697f.JPG)
 ![sala3](https://user-images.githubusercontent.com/48366462/131004560-b23db209-459a-4a4c-bf57-aafbb82feaa0.JPG)
@@ -42,4 +42,4 @@ samples, guidance on mobile development, and a full API reference.
 ![sala9](https://user-images.githubusercontent.com/48366462/131004580-ccb57d15-aaed-4761-9ca6-e565d01a5466.JPG)
 ![sala7](https://user-images.githubusercontent.com/48366462/131004581-2f297106-6b4d-4768-b842-ec63874ffd72.JPG)
 ![sala6](https://user-images.githubusercontent.com/48366462/131004585-b026cedd-08ca-4919-851d-f4756cc43189.JPG)
-</div>
+
