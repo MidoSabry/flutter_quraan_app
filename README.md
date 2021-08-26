@@ -1,5 +1,17 @@
 # flutter_quran_app
 
+This app using to 
+  -detect the time of pray
+  -reading quraan with translate
+  -reading Explanation english for every aya
+  -using compass to dtect diraction of the pray
+  -change size of letters
+  -change mode (dark-light)
+  
+  Using API https://api.pray.zone/v2/times/today.json
+  
+  
+
 A new Flutter project.
 
 ## Getting Started
